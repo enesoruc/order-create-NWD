@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Server>.</Server>
+  <AuthenticationType>SQL Server Authentication</AuthenticationType>
+  <UserName>sa</UserName>
+  <Password>1234</Password>
+  <Database>NORTHWND</Database>
+  <Connstr>Server=.;Database=NORTHWND;User ID=sa;Password=1234</Connstr>
+  <MaxSize>108</MaxSize>
+  <MinSize>11</MinSize>
+  <Mars>true</Mars>
+</Connection>

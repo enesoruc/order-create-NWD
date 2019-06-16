@@ -1,0 +1,14 @@
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\bin\Debug\Sql_Connection_UI.exe.config
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\bin\Debug\Sql_Connection_UI.exe
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\bin\Debug\Sql_Connection_UI.pdb
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\obj\Debug\Sql_Connection_UI.Properties.Resources.resources
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\obj\Debug\Sql_Connection_UI.csproj.GenerateResource.cache
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\obj\Debug\Sql_Connection_UI.csproj.CoreCompileInputs.cache
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\obj\Debug\Sql_Connection_UI.exe
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\obj\Debug\Sql_Connection_UI.pdb
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\obj\Debug\Sql_Connection_UI.csprojAssemblyReference.cache
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\obj\Debug\Sql_Connection_UI.Advenced.resources
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\bin\Debug\SerilestirLib.dll
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\bin\Debug\SerilestirLib.pdb
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\obj\Debug\Sql_Connection_UI.csproj.CopyComplete
+C:\Users\eneso\source\repos\29042019_Enes_Oruc_Odev\Sql_Connection_UI\obj\Debug\Sql_Connection_UI.SQL_Connection_UI.resources

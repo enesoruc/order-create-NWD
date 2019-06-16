@@ -1,0 +1,6 @@
+C:\Users\akrie\source\repos\04042019 - ÖDEV\SerilestirLib\bin\Debug\SerilestirLib.dll
+C:\Users\akrie\source\repos\04042019 - ÖDEV\SerilestirLib\bin\Debug\SerilestirLib.pdb
+C:\Users\akrie\source\repos\04042019 - ÖDEV\SerilestirLib\obj\Debug\SerilestirLib.csprojAssemblyReference.cache
+C:\Users\akrie\source\repos\04042019 - ÖDEV\SerilestirLib\obj\Debug\SerilestirLib.csproj.CoreCompileInputs.cache
+C:\Users\akrie\source\repos\04042019 - ÖDEV\SerilestirLib\obj\Debug\SerilestirLib.dll
+C:\Users\akrie\source\repos\04042019 - ÖDEV\SerilestirLib\obj\Debug\SerilestirLib.pdb
